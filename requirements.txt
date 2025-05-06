@@ -4,3 +4,4 @@ opencv-python
 Pillow
 scikit-learn
 matplotlib
+SimpleITK==2.3.1
