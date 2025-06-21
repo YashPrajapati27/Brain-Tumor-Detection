@@ -1,9 +1,10 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
 matplotlib
 pydicom
 scikit-image
 SimpleITK
 Pillow
+scikit-learn
 
